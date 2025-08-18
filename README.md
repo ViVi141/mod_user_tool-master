@@ -20,7 +20,6 @@ mod_user_tool-master/
 ├── ui_components_enhanced.py   # 增强版UI组件
 ├── mod_manager.py              # 模组管理核心功能
 ├── config.py                   # 配置常量
-├── test_smart_update.py        # 智能更新测试脚本
 └──README.md                   # 项目总览（本文件）
 ```
 
