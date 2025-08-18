@@ -1,0 +1,17 @@
+# 模组用户工具依赖包
+# 基础依赖（Python标准库，无需安装）
+# tkinter - GUI框架
+# json - JSON处理
+# os - 操作系统接口
+# shutil - 文件操作
+# threading - 多线程支持
+
+# 可选依赖（如果需要额外功能）
+# pillow - 图像处理（如果需要处理图标等）
+# requests - HTTP请求（如果需要网络功能）
+# zipfile - 压缩文件处理（如果需要压缩功能）
+
+# 开发依赖（仅开发时需要）
+# pytest - 测试框架
+# black - 代码格式化
+# flake8 - 代码检查
