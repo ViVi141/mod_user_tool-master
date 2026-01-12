@@ -85,5 +85,5 @@ mod_user_tool-master/
 ## 作者与许可证
 
 - 作者：ViVi141（QQ: 747384120）
-- 许可证：MIT（详见 `LICENSE`）
+- 许可证： AGPL-3.0 license（详见 `LICENSE`）
 "# mod_user_tool-master" 
